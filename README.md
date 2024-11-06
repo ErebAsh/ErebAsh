@@ -36,7 +36,7 @@
 
 <h3 align="left">GitHub statiistics :</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erebash&show_icons=true&locale=en" alt="erebash" /></p><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=erebash&show_icons=true&locale=en" alt="erebash" /></p><br><br><br><br><br><br><br>
 
 <h3 align="left">Contributions :</h3>
 
