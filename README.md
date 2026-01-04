@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
+
 <p align="center">
   ---
-  ###  🧠 **AI & ML Architect** 💻
-  ###  *Building Smarter Futures, One Line of Code at a Time.*
+    🧠 *AI & ML Architect* 💻
+   *Making Machines Smarter, While I Pretend to Sleep🥱*
   ---
 </p>
 
