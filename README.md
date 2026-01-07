@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 The Data Stream: Profile Insights & Achievements
+### 🌐 The Data Stream: Profile Insights
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=erebash&label=Profile%20views&color=0e75b6&style=flat" alt="erebash" />
