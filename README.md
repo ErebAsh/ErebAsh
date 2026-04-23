@@ -31,28 +31,61 @@
 
 ### 📡 Network Protocols: Connect with Himanshu
 
-<p align="left">
-<a href="https://linkedin.com/in/himanshu-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu raj" height="30" width="40" /></a>
-<a href="https://fb.com/himanshu.raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu raj" height="30" width="40" /></a>
-<a href="https://instagram.com/hr7207096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hr7207096" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raj_himanshu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj_himanshu_" height="30" width="40" /></a>
+<p>
+<a href="https://linkedin.com/in/himanshu-raj" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:10px;"/>
+</a>
+<a href="https://fb.com/himanshu.raj" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin-right:10px;"/>
+</a>
+<a href="https://instagram.com/hr7207096" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;"/>
+</a>
 </p>
 
 ---
 
 ### 🧪 My Learning Lab: Programming & AI Toolkit
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.oracle.com/sql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<!-- Languages -->
+<h3>💻 Languages</h3>
+<p style="display:flex; flex-wrap:wrap;">
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:6px;"/></a>
+</p>
+
+<!-- AI / ML -->
+<h3>🤖 AI / ML</h3>
+<p style="display:flex; flex-wrap:wrap;">
+<a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" style="margin:6px;"/></a>
+
+<!-- Wav2Lip -->
+<a href="https://github.com/Rudrabha/Wav2Lip">
+  <img src="https://img.shields.io/badge/Wav2Lip-FF6F00?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin:6px;"/>
+</a>
+
+<!-- SadTalker -->
+<a href="https://github.com/OpenTalker/SadTalker">
+  <img src="https://img.shields.io/badge/SadTalker-4A90E2?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin:6px;"/>
+</a>
+</p>
+
+<!-- Databases & Cloud -->
+<h3>☁️ Databases & Cloud</h3>
+<p style="display:flex; flex-wrap:wrap;">
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" style="margin:6px;"/></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="margin:6px;"/></a>
+<a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" style="margin:6px;"/></a>
+</p>
+
+<!-- Tools -->
+<h3>🛠️ Tools</h3>
+<p style="display:flex; flex-wrap:wrap;">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" style="margin:6px;"/></a>
 </p>
 
 ---
