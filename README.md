@@ -61,16 +61,6 @@
 <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:6px;"/></a>
 <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin:6px;"/></a>
 <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" style="margin:6px;"/></a>
-
-<!-- Wav2Lip -->
-<a href="https://github.com/Rudrabha/Wav2Lip">
-  <img src="https://img.shields.io/badge/Wav2Lip-FF6F00?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin:6px;"/>
-</a>
-
-<!-- SadTalker -->
-<a href="https://github.com/OpenTalker/SadTalker">
-  <img src="https://img.shields.io/badge/SadTalker-4A90E2?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin:6px;"/>
-</a>
 </p>
 
 <!-- Databases & Cloud -->
