@@ -45,7 +45,7 @@
 
 ---
 
-### 🧪 My Learning Lab: Programming & AI Toolkit
+### 🧪 Programming & AI Toolkit
 
 <!-- Languages -->
 <h3>💻 Languages</h3>
@@ -61,6 +61,10 @@
 <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" style="margin:6px;"/></a>
 <a href="https://scikit-learn.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" style="margin:6px;"/></a>
 <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" style="margin:6px;"/></a>
+<!-- Hugging Face -->
+<a href="https://huggingface.co/">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" style="margin:6px;"/>
+</a>
 </p>
 
 <!-- Databases & Cloud -->
@@ -70,6 +74,10 @@
 <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" style="margin:6px;"/></a>
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" style="margin:6px;"/></a>
 <a href="https://www.snowflake.com/"><img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40" style="margin:6px;"/></a>
+<!-- Supabase -->
+<a href="https://supabase.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" style="margin:6px;"/>
+</a>
 </p>
 
 <!-- Tools -->
